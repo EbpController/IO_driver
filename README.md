@@ -1,5 +1,5 @@
 # IO_driver
-'IO driver' is a Arduino Uno/Nano IO driver for the 'EBP Controller' project
+'IO driver' is an Arduino Uno/Nano IO driver for the 'EBP Controller' project
 
 EbpSerial must be included (refer to https://github.com/EbpController/EbpSerial)
 
